@@ -1,5 +1,5 @@
 body {
-	background-color: RGB(223,189,206);
+	background-color: rgb(223,189,206);
 	margin:0;
 	padding:0;
 	font-family: 'Press Start 2P', cursive;
@@ -84,7 +84,6 @@ li {
 	width: 40px;
 	height: 40px;
 }
-
 
 @media (max-width: 1370px) {
 	video {
